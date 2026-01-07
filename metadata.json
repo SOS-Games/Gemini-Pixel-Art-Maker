@@ -1,0 +1,5 @@
+{
+  "name": "PixelSprite Pro",
+  "description": "A specialized pixel art generator that uses Imagen 3 to create sharp retro-style game sprites, automatically downscaled to 64x64 with optional background transparency.",
+  "requestFramePermissions": []
+}
